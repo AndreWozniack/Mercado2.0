@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2e89b4a-6f09-4df0-9e29-ddce9942c1d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql-connector-java-8.0.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mercado2.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBase/CarrinhoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBase/Conect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBase/DataAcessObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBase/ProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBase/RegistroDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBase/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Compras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sys/Carrinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sys/Pagina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sys/Paginavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sys/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sys/ProdutoCarrinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sys/Registro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sys/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sys/VerificadorCPF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sys/erros/InvalidCPF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sys/erros/InvalidPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sys/erros/NotFoundProd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sys/erros/NotFoundUser.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/DataBase/ProdutoDAO.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Main/Compras.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Main/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Sys/Pagina.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Sys/Produto.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FDLfb8DDkz5AgDpcDeVZxb3xWf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.30.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Sys.erros" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Sys" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="Mercado2.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2e89b4a-6f09-4df0-9e29-ddce9942c1d0" name="Changes" comment="" />
+      <created>1664021811407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664021811407</updated>
+      <workItem from="1664021813464" duration="12246000" />
+      <workItem from="1664282694876" duration="188000" />
+      <workItem from="1664318382395" duration="121000" />
+      <workItem from="1664368552762" duration="1022000" />
+      <workItem from="1664419488431" duration="145000" />
+      <workItem from="1664454978950" duration="1291000" />
+      <workItem from="1664475115286" duration="1428000" />
+      <workItem from="1664555522008" duration="15306000" />
+      <workItem from="1664640893964" duration="938000" />
+      <workItem from="1664723971005" duration="17934000" />
+      <workItem from="1664880699775" duration="5220000" />
+      <workItem from="1664919941166" duration="5106000" />
+      <workItem from="1664927205741" duration="118000" />
+      <workItem from="1664970482415" duration="13453000" />
+      <workItem from="1665141545146" duration="10987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
